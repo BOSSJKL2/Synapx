@@ -3189,10 +3189,10 @@ local function C_71()
 	yes.Execute.MouseButton1Up:Connect(function()
 		for i,v in pairs(yes:GetChildren()) do
 			if v.Visible then
-				if v.Name == "Dex" then
-				loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
-			elseif v.Name == "RemoteSpy" then
-				loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/SimpleSpyV3/main.lua"))()
+				if v.Name == "b00sjkidd GUi SS" then
+				loadstring(game:HttpGet("https://raw.githubusercontent.com/BOSSJKL2/TestGUI/main/TESTGUIbJ"))()
+			elseif v.Name == "Chat SS" then
+				loadstring(game:HttpGet("https://pastebin.com/raw/hgYv5aHk"))()
 			elseif v.Name == "UnnamedESP" then
 				pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)
 			elseif v.Name == "ScriptDumper" then
